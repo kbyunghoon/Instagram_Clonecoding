@@ -2,7 +2,7 @@
 [googlelink]: https://github.com/WonDongGyun/instagram_clonCording/
 
 ## 🖥 프로젝트 소개
-* 주제 : 인스타그램(http://www.instagram.com)을 주제로 클론 코딩한 프로젝트입니다.
+* 주제 : 인스타그램(http://www.instagram.com) 을 주제로 클론 코딩한 프로젝트입니다.
 
 ## 📆 기간
 * 2021년 4월 2일 ~ 2021년 4월 8일(약 일주일)
